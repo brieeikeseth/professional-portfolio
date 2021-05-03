@@ -18,7 +18,7 @@ SO THAT I can review samples of their work and assess whether they're a good can
 
 # Mock Up
 <div>
-<img src="./assets/images/02-advanced-css-homework-demo-1.gif" width="400px" />
+<img src="./assets/images/02-advanced-css-homework-demo.gif" width="400px" />
 
 # The Output 
 professional-portfolio was uploaded to [Github] (https://github.com/) at the following repository: 
